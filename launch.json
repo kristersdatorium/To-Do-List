@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open main.html",
-            "file": "c:\\Users\\krist\\Documents\\xdxdxdxdxd\\main.html"
+            "url": "https://kristersdatorium.github.io/main.html"
         }
     ]
 }
