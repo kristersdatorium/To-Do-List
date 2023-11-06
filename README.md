@@ -1,2 +1,2 @@
 # To-Do-List
-To-Do List
+Team luckydx have created a goal tacker (To-Do List) website, which was designed to help individuals set, monitor, and achieve their personal or professional goals. Users can create specific goal, tick/untick your own goals (completed/incomplete). This website often offer features like task lists, and progress charts to help users stay motivated and accountable. Goal trackers provide a convenient and organized way to persue and accomplish your ambitions, whether they can relate to fitness, career, education, or any 	other apsect of life.
